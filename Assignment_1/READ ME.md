@@ -12,8 +12,8 @@ pip install numpy pandas scikit-learn matplotlib
 ## How to Use
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/CSCI485_Spring25_YourName.git
-cd CSCI485_Spring25_YourName/Assignment_1
+git clone https://github.com/ShivamPawar2799/MATH-CSCI485_Spring25_-Shivam-_-Pawar-.git
+cd MATH-CSCI485_Spring25_-Shivam-_-Pawar-/Assignment_1
 ```
 
 ### 2. Run the Code
